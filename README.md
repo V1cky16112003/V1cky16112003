@@ -1,7 +1,6 @@
 ### Hi, I'm Vignesh Ram Sivakumar 👋
 
 MSc Data Science @ King's College London (Distinction trajectory, Sem 1 avg: 71.7%)
-AI Security Researcher / Policy Architect (Stealth Startup) — building authorization policy layers for autonomous AI agents.
 
 🔍 Looking for full-time AI/ML Engineer roles in London.
 
