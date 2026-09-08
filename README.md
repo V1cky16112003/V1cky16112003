@@ -1,33 +1,27 @@
-## Hi, I'm Vignesh Ram Sivakumar 👋
+### Hi, I'm Vignesh Ram Sivakumar 👋
 
-MSc Data Science @ King's College London (Distinction trajectory)
-Building **DAMS-GCT** — an uncertainty-aware GNN-Transformer for multimodal emotion recognition, trained on NVIDIA A100 GPUs.
+MSc Data Science @ King's College London (Distinction trajectory, Sem 1 avg: 71.7%)
+AI Security Researcher / Policy Architect (Stealth Startup) — building authorization policy layers for autonomous AI agents.
 
-Seeking **full-time AI/ML Engineer roles in London from August 2026.**
+🔍 Looking for full-time AI/ML Engineer roles in London.
 
----
+#### What I've been building
 
-### What I work with
+- **[ArXiv Research Intelligence Agent](https://github.com/V1cky16112003/research-intelligence-agent)** — Agentic RAG over 50K ArXiv papers: 4-node LangGraph agent (Planner/Executor/Critic/Reporter), pgvector + HNSW, RAGAS-gated CI, deployed on Hugging Face Spaces + Vercel.
+- **[Chore Manager](https://github.com/V1cky16112003/chore-manager)** — Custom MCP server (10 tools) for household automation, deployed serverless on Vercel with bearer-token auth hardened against DNS-rebinding, direct LLM control from Claude Desktop/Web.
+- **[MAET Reproducibility Critique (MSc Dissertation)](https://github.com/V1cky16112003/Kings-final-year-project)** — Audited a published EEG-emotion benchmark (IEEE TAFFC 2025), proved its headline accuracy was an evaluation-leakage artefact (Wilcoxon W=0, p<2e-6), and built an honest leak-free baseline validated on a second independent dataset.
+- **[Conversational Multimodal Chatbot](https://github.com/V1cky16112003/Conversational-Image-Recognition-Chatbot)** — Real-time image recognition + OCR + voice I/O across English, Tamil, Hindi, Telugu; FastAPI + React, sub-second inference.
 
-**ML & AI:** PyTorch · GNNs · Transformers · HuggingFace · TensorFlow · Scikit-Learn
-**Signals:** EEG · EDA · BVP signal processing · Uncertainty quantification
-**Engineering:** FastAPI · Docker · Redis · Python · SQL
-**Cloud:** Azure Cognitive Services · Oracle Cloud · AWS
-**Frontend:** React.js · D3.js
+#### What I work with
 
----
+**ML & AI:** PyTorch · TensorFlow · Scikit-Learn · GNNs · Transformers · HuggingFace · Multimodal AI · NLP · Computer Vision
+**Signals & Modelling:** EEG/EDA/BVP signal processing · Multimodal fusion · Uncertainty quantification · Transfer learning
+**Engineering & Backend:** FastAPI · LangGraph · Docker · REST APIs · pgvector · MCP (Model Context Protocol) · Azure Cognitive Services · MySQL
+**Frontend & Deployment:** React.js · Vite · Vercel · Hugging Face Spaces · GitHub Actions · MLflow
+**AI Security:** Agentic authorization policy design (Cedar) · OWASP Agentic Top 10 / LLM Top 10 threat modelling
 
-### Featured projects
+#### Certifications
+- Model Context Protocol: Advanced Topics — Anthropic (Jul 2026)
+- AI Fluency Framework & Foundations — Anthropic (Jul 2026)
 
-| Project | Stack | Status |
-|---|---|---|
-| [DAMS-GCT: Multimodal Emotion Recognition](https://github.com/V1cky16112003) | PyTorch · GNNs · EEG | In progress |
-| [Conversational Image Recognition Chatbot](https://github.com/V1cky16112003/Conversational-Image-Recognition-Chatbot) | Gemini · Azure · FastAPI · React | Complete |
-| [Automated Lecture Transcription & Summarisation](https://github.com/V1cky16112003/Automated-Lecture-Transcription-and-Summarization-Sytsem-with-Multilingual-Support) | Whisper · T5 · Python | Complete |
-
----
-
-### Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vignesh-ram-sivakumar/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://vignesh-portfolio-phi.vercel.app)
+📫 [LinkedIn](https://linkedin.com/in/vignesh-ram-sivakumar) · [Portfolio](https://vigneshramsivakumar.me)
